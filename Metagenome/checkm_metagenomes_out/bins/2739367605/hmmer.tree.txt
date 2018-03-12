@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ga0191947_1021_6     -            293 Ribosom_S12_S23      PF00164.20   122    0.0029   13.2   0.0   1   1   5.9e-06    0.0059   12.2   0.0    62   107   195   240   192   249 0.85 # 1920 # 2798 # 1 # ID=21_6;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.585
+Ga0191947_1049_2     -            144 Ribosomal_L11        PF00298.14    69   7.3e-31  102.3   1.3   1   1   1.1e-33   1.1e-30  101.8   1.3     1    69    72   140    72   140 0.99 # 718 # 1149 # -1 # ID=49_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.512
+Ga0191947_1051_3     -            242 Ribosomal_S2         PF00318.15   211   1.7e-82  271.9   0.0   1   1   1.9e-85   1.9e-82  271.7   0.0     1   211     8   225     8   225 0.99 # 1207 # 1932 # 1 # ID=51_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.477
+Ga0191947_1104_2     -            131 Ribosomal_S9         PF00380.14   121   5.9e-46  151.8   0.4   1   1   6.6e-49   6.6e-46  151.7   0.4     1   121    10   130    10   130 0.99 # 1073 # 1465 # -1 # ID=104_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.519
+Ga0191947_1052_5     -            130 Ribosomal_S11        PF00411.14   110   2.1e-48  159.3   0.4   1   1   2.6e-51   2.6e-48  159.0   0.4     1   110    19   128    19   128 0.99 # 1894 # 2283 # 1 # ID=52_5;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.487
+Ga0191947_1104_3     -            146 Ribosomal_L13        PF00572.13   128   4.3e-54  178.1   0.1   1   1     5e-57     5e-54  177.9   0.1     1   126    15   140    15   142 0.99 # 1468 # 1905 # -1 # ID=104_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.468
+Ga0191947_1049_1     -            232 Ribosomal_L1         PF00687.16   220   4.7e-51  169.3   0.0   1   1   5.7e-54   5.7e-51  169.1   0.0    13   219    20   220     8   221 0.90 # 21 # 716 # -1 # ID=49_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.510
+Ga0191947_1002_10    -            450 SRP_SPB              PF02978.14   104   6.9e-33  109.2   7.1   1   1   2.7e-35   2.7e-32  107.3   7.1     2   104   329   426   328   426 0.95 # 10422 # 11771 # -1 # ID=2_10;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.524
+Ga0191947_1049_2     -            144 Ribosomal_L11_N      PF03946.9     60   9.4e-33  107.7   0.6   1   1   1.5e-35   1.5e-32  107.0   0.6     1    60     8    67     8    67 0.99 # 718 # 1149 # -1 # ID=49_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.512
+Ga0191947_1048_1     -           1068 TIGR00422            TIGR00422    863         0 1131.9   0.0   1   1         0         0 1131.7   0.0     2   861   147  1048   146  1050 0.96 # 85 # 3288 # -1 # ID=48_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.540
+Ga0191947_1003_3     -            559 TIGR00422            TIGR00422    863   3.1e-07   24.6   0.0   1   2   0.00026      0.13    6.0   0.0    43    74   130   161   120   175 0.89 # 1545 # 3221 # -1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.537
+Ga0191947_1003_3     -            559 TIGR00422            TIGR00422    863   3.1e-07   24.6   0.0   2   2   1.7e-07   8.5e-05   16.5   0.0   516   568   373   427   357   496 0.84 # 1545 # 3221 # -1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.537
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/d447dc5d-ba2f-488d-a0ec-9a751b191e73
+# Target file:     checkm_metagenomes_out/bins/2739367605/genes.faa
+# Option settings: hmmsearch --domtblout checkm_metagenomes_out/bins/2739367605/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/d447dc5d-ba2f-488d-a0ec-9a751b191e73 checkm_metagenomes_out/bins/2739367605/genes.faa 
+# Current dir:     /export/home/patricia/Nitrogen_cycling
+# Date:            Thu Feb 22 16:07:03 2018
+# [ok]

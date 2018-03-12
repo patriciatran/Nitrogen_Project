@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ga0191945_104_2      -            129 eRF1_2               PF03464.10   133   1.4e-07   24.7   0.0   1   1   2.1e-09     2e-07   24.3   0.0     3   107     6   101     4   112 0.74 # 543 # 929 # 1 # ID=4_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.486
+Ga0191945_103_5      -             75 Ribonuclease_P       PF00825.13   111   1.9e-17   56.0   2.2   1   1   2.2e-19   2.1e-17   55.9   2.2    43   109     3    68     1    70 0.94 # 5967 # 6191 # -1 # ID=3_5;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.458
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/29e6c05d-2b45-4577-acdf-e1dbff97c1aa
+# Target file:     checkm_metagenomes_out/bins/2739367552/genes.faa
+# Option settings: hmmsearch --domtblout checkm_metagenomes_out/bins/2739367552/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/29e6c05d-2b45-4577-acdf-e1dbff97c1aa checkm_metagenomes_out/bins/2739367552/genes.faa 
+# Current dir:     /export/home/patricia/Nitrogen_cycling
+# Date:            Thu Feb 22 16:16:47 2018
+# [ok]

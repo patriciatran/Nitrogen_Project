@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ga0191163_121_6      -            312 Ribosom_S12_S23      PF00164.20   122    0.0018   13.1   0.0   1   1   6.4e-06    0.0036   12.1   0.0    62   107   214   259   211   268 0.85 # 1863 # 2798 # 1 # ID=21_6;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+Ga0191163_102_10     -            450 SRP_SPB              PF02978.14   104   3.9e-33  109.2   7.1   1   1   2.7e-35   1.5e-32  107.3   7.1     2   104   329   426   328   426 0.95 # 10422 # 11771 # -1 # ID=2_10;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.524
+Ga0191163_103_3      -            559 TIGR00422            TIGR00422    863   1.7e-07   24.6   0.0   1   2   0.00013     0.073    6.0   0.0    43    74   130   161   120   175 0.89 # 1545 # 3221 # -1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.537
+Ga0191163_103_3      -            559 TIGR00422            TIGR00422    863   1.7e-07   24.6   0.0   2   2   8.5e-08   4.7e-05   16.5   0.0   516   568   373   427   357   496 0.84 # 1545 # 3221 # -1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.537
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/0b5dba1d-15cf-4a9e-9b31-f5a020e10281
+# Target file:     checkm_metagenomes_out/bins/2739367606/genes.faa
+# Option settings: hmmsearch --domtblout checkm_metagenomes_out/bins/2739367606/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/0b5dba1d-15cf-4a9e-9b31-f5a020e10281 checkm_metagenomes_out/bins/2739367606/genes.faa 
+# Current dir:     /export/home/patricia/Nitrogen_cycling
+# Date:            Thu Feb 22 16:06:57 2018
+# [ok]

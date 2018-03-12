@@ -1,0 +1,10 @@
+variable	Guild
+Betaproteobacteria bacterium JGI_MCM14ME279 (unscreened)/	Nitrosomonadales (AOB)
+Betaproteobacteria bacterium JGI_MCM14ME259 (unscreened)/	Nitrosomonadales (AOB)
+Betaproteobacteria bacterium JGI_MCM14ME284 (unscreened)/	Nitrosomonadales (AOB)
+Betaproteobacteria bacterium JGI_MCM14ME238 (contamination screened)/	Nitrosomonadales (AOB)
+Betaproteobacteria bacterium JGI_MCM14ME221 (contamination screened)/	Nitrotoga (NOB)
+Betaproteobacteria bacterium JGI_MCM14ME250 (unscreened)/	Nitrotoga (NOB)
+Betaproteobacteria bacterium JGI_MCM14ME238 (unscreened)/	Nitrotoga (NOB)
+Betaproteobacteria bacterium JGI_MCM14ME250 (contamination screened)/	Nitrotoga (NOB)
+Betaproteobacteria bacterium JGI_MCM14ME221 (unscreened)/	Nitrotoga (NOB)

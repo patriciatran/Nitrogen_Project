@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ga0191921_128_1      -            189 Ribosomal_L2         PF00181.18    77   4.6e-35  113.1   0.5   1   1   2.8e-36   2.3e-34  110.9   0.9     1    76    42   117    42   118 0.98 # 63 # 629 # 1 # ID=28_1;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.504
+Ga0191921_128_4      -            278 Ribosomal_L2         PF00181.18    77   1.3e-34  111.6   0.7   1   1   6.2e-36   5.1e-34  109.8   0.9     1    76    42   117    42   118 0.98 # 1282 # 2115 # -1 # ID=28_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.534
+Ga0191921_128_2      -             97 Ribosomal_L23        PF00276.15    92   3.4e-14   46.2   0.2   1   1   2.5e-16   4.1e-14   46.0   0.2     1    73    12    87    12    90 0.87 # 518 # 808 # -1 # ID=28_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.491
+Ga0191921_128_3      -            157 Ribosomal_L4         PF00573.17   192     1e-52  171.9   0.0   1   1   6.8e-55   1.1e-52  171.8   0.0    37   191     2   153     1   154 0.99 # 805 # 1275 # -1 # ID=28_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.507
+Ga0191921_128_4      -            278 Ribosomal_L2_C       PF03947.13   130   1.1e-58  190.2   1.0   1   1   1.4e-60   1.1e-58  190.2   1.0     1   130   124   252   124   252 0.99 # 1282 # 2115 # -1 # ID=28_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.534
+Ga0191921_128_1      -            189 Ribosomal_L2_C       PF03947.13   130   1.4e-14   47.6   0.2   1   1   4.5e-16   3.7e-14   46.3   0.0     1    44   124   167   124   177 0.94 # 63 # 629 # 1 # ID=28_1;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.504
+Ga0191921_101_11     -            639 TIGR00344            TIGR00344    847   1.1e-07   23.6   0.0   1   1   1.1e-09   1.8e-07   23.0   0.0   556   680    72   202    39   249 0.81 # 8021 # 9937 # -1 # ID=1_11;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.510
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/0442c598-cd2d-4944-9cc2-84a9fe69f13e
+# Target file:     checkm_metagenomes_out/bins/2739367549/genes.faa
+# Option settings: hmmsearch --domtblout checkm_metagenomes_out/bins/2739367549/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/0442c598-cd2d-4944-9cc2-84a9fe69f13e checkm_metagenomes_out/bins/2739367549/genes.faa 
+# Current dir:     /export/home/patricia/Nitrogen_cycling
+# Date:            Thu Feb 22 16:06:52 2018
+# [ok]

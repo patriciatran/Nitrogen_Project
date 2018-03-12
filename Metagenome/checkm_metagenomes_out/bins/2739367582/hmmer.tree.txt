@@ -1,0 +1,14 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ga0191125_109_15     -            130 Ribosomal_S11        PF00411.14   110   6.5e-49  159.3   0.4   1   1   2.6e-51     8e-49  159.0   0.4     1   110    19   128    19   128 0.99 # 11361 # 11750 # -1 # ID=9_15;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.485
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/b679c141-114b-41f6-8ed5-eb57cfbb31be
+# Target file:     checkm_metagenomes_out/bins/2739367582/genes.faa
+# Option settings: hmmsearch --domtblout checkm_metagenomes_out/bins/2739367582/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/b679c141-114b-41f6-8ed5-eb57cfbb31be checkm_metagenomes_out/bins/2739367582/genes.faa 
+# Current dir:     /export/home/patricia/Nitrogen_cycling
+# Date:            Thu Feb 22 16:06:53 2018
+# [ok]

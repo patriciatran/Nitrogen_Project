@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Ga0191027_120_12     -            312 Ribosom_S12_S23      PF00164.20   122    0.0029   13.1   0.0   1   1   6.4e-06    0.0058   12.1   0.0    62   107   214   259   211   268 0.85 # 6625 # 7560 # 1 # ID=20_12;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+Ga0191027_105_31     -            483 TIGR00422            TIGR00422    863   1.6e-08   28.7   0.7   1   2     0.002       1.8    2.0   0.1    48    76    36    64    29    78 0.91 # 22813 # 24261 # -1 # ID=5_31;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.489
+Ga0191027_105_31     -            483 TIGR00422            TIGR00422    863   1.6e-08   28.7   0.7   2   2   2.5e-10   2.2e-07   24.9   0.0   512   584   255   326   246   354 0.85 # 22813 # 24261 # -1 # ID=5_31;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.489
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/308e534e-aa4c-4544-be59-f2f6ddb1c6c5
+# Target file:     checkm_metagenomes_out/bins/2737471696/genes.faa
+# Option settings: hmmsearch --domtblout checkm_metagenomes_out/bins/2737471696/hmmer.tree.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/308e534e-aa4c-4544-be59-f2f6ddb1c6c5 checkm_metagenomes_out/bins/2737471696/genes.faa 
+# Current dir:     /export/home/patricia/Nitrogen_cycling
+# Date:            Thu Feb 22 16:07:02 2018
+# [ok]
