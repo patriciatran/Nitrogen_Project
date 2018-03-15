@@ -2,7 +2,7 @@
 # Author : Patricia Tran
 
 # About this project
-I am currently a visiting researcher in the McMahon at the University of Wisconsin-Madison https://github.com/McMahonLab.
+I am currently a visiting researcher/grad student in the McMahon at the University of Wisconsin-Madison https://github.com/McMahonLab and https://mcmahonlab.wisc.edu/.
 
 # Introduction
 As lake temperatures worldwide increase and ice duration decreases among Northern lakes, understanding the biogeochemistry and microbiology under ice is crucial to determine how nutrient cycling occurs and how it may change in the future. One cycle experiencing dynamic changes is the nitrogen (N) cycle. Collectively, we are becoming aware of the importance of nitrogen cycling during winter, yet relatively few studies have investigated microbial communities and their activities under ice. 
