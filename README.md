@@ -11,7 +11,7 @@ As lake temperatures worldwide increase and ice duration decreases among Norther
 We are analysing a five year time series of metagenomic data, of samples collected in Lake Mendota from 2008 to 2012. We are focusing on the MAGs which are affiliated with known bacteria taxa involved in the key transformations of the Nitrogen Cycle. The goal is to understand how the abundance of these bacteria changes over time, and at which point in the year do they show "blooming". Furthermore, we want to understand the phylogenic diversity of these bacteria in freshwater lakes.
 
 # Objective 2: Incubation experiment
-During winter 2018, we sampled Lake Mendota throughout the water column (5,10,15,20,22,23m) and accross time. For each sampling trip, we collected environmental variables, collected samples for bacterial sequencing (16S rRNA, and eventually metagenomics), and for incubation experiments.
+During winter 2018, we sampled Lake Mendota throughout the water column (5,10,15,20,22,23m) and accross time. For each sampling trip, we collected environmental variables, collected samples for bacterial sequencing (16S rRNA, and maybe eventually metagenomics), and for incubation experiments.
 ## Sequencing:
 TBD
 ## Incubations:
